@@ -1,2 +1,2 @@
 # resume.html
-Team Straw Hats Member Resume HTML
+Team Straw Hats Member Resume using HTML & CSS
